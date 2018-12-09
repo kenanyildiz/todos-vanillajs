@@ -32,4 +32,4 @@ How was the app created? Anything worth sharing about the process of creating th
 
 ## Credit
 
-Created by [Your Name](http://your-website.com)
+Created by Kenan Yıldız

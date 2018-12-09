@@ -1,5 +1,5 @@
 {
   "preset": "airbnb",
   "requireCurlyBraces": true,
-  "disallowMultipleVarDecl": false,
+  "disallowMultipleVarDecl": false
 }
