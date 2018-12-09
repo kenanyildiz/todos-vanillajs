@@ -1,0 +1,19 @@
+/*
+
+app-template.css overrides
+
+remove this comment if used
+remove this file if not
+
+*/
+
+.footer {
+	min-height: 20px;
+	height: auto;
+}
+
+label[for='toggle-all'] {
+	clear: both;
+	margin-top: 28px;
+	position: relative;
+}
